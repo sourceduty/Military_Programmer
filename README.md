@@ -14,6 +14,12 @@ Furthermore, this GPT stays updated on emerging trends in military software deve
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Tactical Vehicle Strategy](https://chatgpt.com/g/g-TSfu7BQRA-tactical-vehicle-strategy)
+<br>
+[Military Overlord](https://chatgpt.com/g/g-4r14DqjVY-military-overlord)
+<br>
+[Joint Project](https://chatgpt.com/g/g-EEvHlNpFC-joint-project)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

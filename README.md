@@ -12,6 +12,10 @@ Furthermore, this GPT stays updated on emerging trends in military software deve
 
 #
 
+> Alex: "*привет командир*"
+
+#
+
 ![Armed Forces](https://github.com/user-attachments/assets/e00aee3d-afa2-4ddc-b367-7c419039cdcd)
 
 #

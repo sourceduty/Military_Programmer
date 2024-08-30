@@ -11,6 +11,15 @@ In addition to offering insights into military software systems, this GPT provid
 Furthermore, this GPT stays updated on emerging trends in military software development, such as the integration of AI and machine learning, quantum computing, and advancements in cyber warfare. It is a reliable resource for professionals looking to stay informed on the latest developments in military software, providing actionable information to navigate the complexities of this specialized field. By offering this combination of technical guidance and strategic insight, the GPT empowers users to make informed decisions in the development and deployment of military software systems.
 
 #
+### Educational Information Disclaimer
+
+The information and guidance provided by this custom GPT are intended solely for educational and informational purposes in the field of military software development. While efforts have been made to ensure the accuracy and reliability of the content, this GPT does not substitute professional judgment or specialized expertise. Users are advised to consult with qualified professionals and adhere to all relevant legal, regulatory, and security standards applicable to their specific military software development projects.
+
+This GPT is designed to assist users in understanding and developing military software systems, including Command and Control (C2) Systems, Intelligence, Surveillance, and Reconnaissance (ISR) Systems, Weapon Systems Software, and other related domains. However, the recommendations provided by this GPT are not exhaustive and may not cover all possible scenarios or challenges encountered in military software development. Users should conduct thorough evaluations and testing of their systems, ensuring compliance with all applicable military standards and operational requirements.
+
+By using this GPT, users acknowledge that any software developed using its guidance is done at their own risk. The developers of this GPT assume no liability for any direct or indirect consequences, including but not limited to, software malfunctions, security breaches, or operational failures that may arise from the use of the information provided. Users are encouraged to exercise caution and take full responsibility for the implementation of any recommendations or code generated based on the guidance of this GPT.
+
+#
 
 > Alex: "*привет командир*"
 

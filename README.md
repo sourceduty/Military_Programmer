@@ -41,6 +41,8 @@ If the USA had significantly much more and much smarter AI than Russia, the impa
 [Military Overlord](https://chatgpt.com/g/g-4r14DqjVY-military-overlord)
 <br>
 [Joint Project](https://chatgpt.com/g/g-EEvHlNpFC-joint-project)
+<br>
+[Guns](https://github.com/sourceduty/Guns)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

@@ -43,6 +43,8 @@ If the USA had significantly much more and much smarter AI than Russia, the impa
 [Joint Project](https://chatgpt.com/g/g-EEvHlNpFC-joint-project)
 <br>
 [Guns](https://github.com/sourceduty/Guns)
+<br>
+[Emergency Survival Gear](https://github.com/sourceduty/Emergency_Survival_Gear)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

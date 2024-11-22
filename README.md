@@ -56,6 +56,8 @@ If the USA had significantly much more and much smarter AI than Russia, the impa
 [Private Military](https://github.com/sourceduty/Private_Military)
 <br>
 [Terminal](https://github.com/sourceduty/Terminal)
+<br>
+[Plain Text](https://github.com/sourceduty/Plain_Text)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

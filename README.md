@@ -47,6 +47,8 @@ If the USA had significantly much more and much smarter AI than Russia, the impa
 [Emergency & Survival Gear](https://github.com/sourceduty/Emergency_Survival_Gear)
 <br>
 [Private Military](https://github.com/sourceduty/Private_Military)
+<br>
+[Terminal](https://github.com/sourceduty/Terminal)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

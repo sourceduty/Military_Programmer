@@ -44,9 +44,13 @@ Citizens who wish to provide encrypted information to the military would typical
 
 In some cases, the encrypted codes could be sent through more secure, government-sanctioned channels, such as secure portals that are monitored and protected by military cybersecurity measures. These portals might require a government-issued identification and authorization to access, ensuring that only citizens with a legitimate purpose can submit sensitive information. For highly classified information, citizens might be instructed to use encrypted physical storage devices, such as USB drives with hardware-based encryption, which would then be physically delivered to a secure military facility. In all cases, the encryption process would comply with relevant military standards (such as AES or RSA encryption) and ensure the data’s integrity, confidentiality, and authenticity throughout the transmission process.
 
+This scenario would typically occur in situations where citizens have critical or sensitive information that could aid national security or military operations. For example, a civilian might discover information about a potential security threat, such as a terrorist plot, espionage activities, or cyberattacks targeting military infrastructure. In such cases, the citizen would be urged to report the information securely to the appropriate military or government agencies. It could also occur when citizens are involved in intelligence gathering or counterintelligence activities, or when they are whistleblowers reporting government misconduct or threats to national defense. The encryption and secure communication channels would be used to ensure that the sensitive nature of the information is preserved and protected from unauthorized access during transmission, preventing potential security breaches.
+
 #
 
 > Alex: "*привет командир*"
+
+> "*A citizen might initially report sensitive information to a local law enforcement officer rather than directly communicating with the military.*"
 
 #
 
